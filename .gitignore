@@ -1,0 +1,4 @@
+# Ignore Folder and Artifact Created during Compile by pyinstaller
+service/build
+service/dist
+*.spec
